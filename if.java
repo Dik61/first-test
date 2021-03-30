@@ -1,1 +1,1 @@
-Hello if comnmand
+Hello for comnmand
