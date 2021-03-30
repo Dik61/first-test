@@ -1,1 +1,3 @@
-Hello for comnmand
+Hello do comnmand
+
+
