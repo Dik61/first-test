@@ -1,3 +1,3 @@
-Hello do comnmand
+Hello while command
 
 
